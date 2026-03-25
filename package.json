@@ -17,5 +17,8 @@
     "husky": "^7.0.0",
     "prettier": "^2.5.1",
     "typeinstall": "^1.0.3"
+  },
+  "engines": {
+    "node": "<=18.20.8"
   }
 }
